@@ -16,6 +16,8 @@
 // Generated from symbols.json provided under MIT license and found here:
 // https://github.com/noahsark769/sfsymbols.com/blob/master/src/data/symbols.json
 
+import SwiftUI
+
 public struct SystemIcon {
 
     
