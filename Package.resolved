@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Mustache",
+        "repositoryURL": "https://github.com/groue/GRMustache.swift",
+        "state": {
+          "branch": null,
+          "revision": "671e2c5234e829c1f337c9d300bd6d9b21d1c42a",
+          "version": "4.0.1"
+        }
+      },
+      {
+        "package": "Regex",
+        "repositoryURL": "https://github.com/crossroadlabs/Regex.git",
+        "state": {
+          "branch": null,
+          "revision": "166728756082a9cac6e4aed3ebbce8e41cb3a945",
+          "version": "1.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
