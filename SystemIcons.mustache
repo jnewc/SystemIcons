@@ -19,12 +19,9 @@
 import SwiftUI
 
 public struct SystemIcon {
-
     {{#.}}
         // Name: {{.}}
         public static var {{fixLeadingNumber(varName(.))}}: some View {
             Image(systemName: "{{.}}")
-        }
-        
-    {{/.}}
+        }{{/.}}
 }
